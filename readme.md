@@ -1,6 +1,10 @@
-# Hi I'm Zareel
+# R0DE Clone
 
 ## Here is my RØDE-Website-clone, this project is a part of our Bootcamp at iNeuron
+
+Technologies used:
+- HTML
+- TailwindCSS
 
 [Live link](https://z-rode-website-clone.netlify.app/)
 
